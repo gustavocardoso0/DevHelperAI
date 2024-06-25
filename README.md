@@ -1,4 +1,4 @@
-Projeto Academico Universidade São Judas Tadeu
+Nome: <Strong>DevHelperAi</strong>
 <BR>
 Projeto desenvolvido com linguagens JavaScript, SQL, o framework React e API da OpenAI.
 <BR>
