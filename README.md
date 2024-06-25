@@ -1,4 +1,4 @@
-Nome: <Strong>DevHelperAi</strong>
+Nome: <Strong>DevHelperAI</strong>
 <BR>
 Projeto desenvolvido com linguagens JavaScript, SQL, o framework React e API da OpenAI.
 <BR>
