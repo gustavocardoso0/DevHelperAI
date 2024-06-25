@@ -1,0 +1,59 @@
+.bg-azul{
+    /* background-color:#7D9DEE; */
+    background-color: red;
+}
+
+.font-arial{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.marginBody {
+    margin-top: 20vh; 
+}
+
+.widthTitle{
+    width: 60%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.bg-verde{
+    background-color:#57e62c;
+}
+
+body {
+    /* background-color: #7D9DEE; */
+    background-color:#648ef9;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  .titulo2{
+    font-style: italic;
+    color: black;
+    font-size: large;
+  }
+  
+  .belgrano-font {
+    font-family: 'Belgrano', serif;
+  }
+
+  .dataPergunta{
+    font-size: 70%;
+    font-weight: bold;
+  }
+
+  .conteudoRetornado{
+    font-size: 90%;
+  }
+  .labelPerguntaHistorico{
+    font-size: 80%;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+  }
