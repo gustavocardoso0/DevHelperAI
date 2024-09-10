@@ -1,5 +1,5 @@
-Nome: <Strong>DevHelperAI</strong>
+Nome do Projeto: <Strong>DevHelperAI</strong>
 <BR>
-Projeto desenvolvido com linguagens JavaScript, SQL, o framework React e API da OpenAI.
+Projeto desenvolvido com linguagens JavaScript, SQL, o framework ReactJS e API da OpenAI.
 <BR>
-Objetivo desse projeto é ajudar estudantes de programação a tirar dúvidas com a API da OpenAI.  
+O projeto é um portal de aprendizado de programação que tem o objetivo de ajudar os estudantes a tirar duvidas com a API da OpenAI.
